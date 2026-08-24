@@ -3,6 +3,3 @@ melon
 frutillas
 huevos
 
-anana
-chicles
-leche
